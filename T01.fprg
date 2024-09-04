@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="ingra"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:09 PM"/>
+        <attribute name="created" value="aW5ncmE7SU5HUkFURUpPWTsyMDI0LTA5LTA0OzA4OjE2OjM0IFBNOzI1ODA="/>
+        <attribute name="edited" value="aW5ncmE7SU5HUkFURUpPWTsyMDI0LTA5LTA0OzA5OjEwOjA5IFBNOzE7MjY4NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="&quot;nama&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
